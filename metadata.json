@@ -1,0 +1,6 @@
+{
+  "name": "Market Precision",
+  "description": "Institutional-grade financial markets dashboard, active trading terminal, and macro equity screener.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
